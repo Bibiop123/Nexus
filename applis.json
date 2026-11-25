@@ -4,5 +4,6 @@
   { "nom": "Ardoise", "description": "Partager les dépenses entre amis", "depot": "Bibiop123/Ardoise", "icone": "icones/ardoise.png", "emoji": "🧾" },
   { "nom": "Calendrier", "description": "Rdv, anniversaires, soirées, concerts", "depot": "Bibiop123/Calendrier", "emoji": "📅" },
   { "nom": "Pochette", "description": "Mes papiers importants à portée de main", "depot": "Bibiop123/Pochette", "icone": "icones/pochette.png", "emoji": "🗂️", "couleur": "#14b8a6" },
+  { "nom": "Shaker", "description": "Cocktails et boissons avec ce qu'il y a dans mon bar", "depot": "Bibiop123/Shaker", "icone": "icones/shaker.png", "emoji": "🍸", "couleur": "#F2994A" },
   { "nom": "Le Nexus", "description": "Toutes mes applis au même endroit", "depot": "Bibiop123/Nexus", "icone": "icones/nexus.png", "emoji": "💠" }
 ]
